@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2020-01-14T16:56:33Z" product-name="cocktail_ltk">
+		<header/>
+		<body>
+			<trans-unit id="title.description">
+				<source>Titre</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
